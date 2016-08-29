@@ -1,0 +1,10 @@
+body{
+	background-color: #FFFAED;
+}
+div#doodle, div#doodle2 {
+    float: right;
+    text-align: center;
+    color: lightblue;
+    font-size: 1em;
+}
+
